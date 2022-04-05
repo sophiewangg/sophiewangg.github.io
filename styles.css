@@ -1,0 +1,79 @@
+* {
+  margin: 2% 5%;
+  font: "courier new";
+  position: static;
+  z-index: 1;
+}
+
+main {
+  min-width: 520px;
+}
+
+#scroll {
+  width: 200px;
+  margin: auto;
+  padding: 20px 0;
+}
+
+#side-note {
+  float: right;
+  margin: 5% 0;
+}
+
+.intro {
+  padding-bottom: 10%;
+}
+
+#projects {
+  margin-top: 70%;
+}
+
+.btn-outline-dark {
+  border-radius: 40px;
+}
+
+a {
+  color: black;
+  margin: 0;
+}
+
+a:hover {
+  color: grey;
+}
+
+#design {
+  position: absolute;
+  top: -20px;
+  margin: 0;
+  padding: 0;
+  z-index: -1;
+}
+
+.card {
+  padding: 20px;
+  margin: 40px;
+  border-radius: 40px;
+  border: 1px solid black;
+}
+
+footer {
+  width: 310px;
+  margin: auto;
+}
+
+.contacts {
+  width: 310px;
+  margin: 30px auto;
+}
+
+.contact-img {
+  display: inline-block;
+  margin: 0 50px;
+  padding: 0;
+  height: 40px;
+  width: 40px;
+}
+
+#scroll-up {
+  float: right;
+}
