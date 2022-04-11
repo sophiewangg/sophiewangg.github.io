@@ -92,10 +92,10 @@ a:hover {
 
 .contact-img {
   display: inline-block;
-  margin: 0 50px;
+  margin: 0 30px;
   padding: 0;
-  height: 40px;
-  width: 40px;
+  height: 30px;
+  width: 30px;
 }
 
 #scroll-up {
@@ -106,4 +106,9 @@ a:hover {
 #scroll-up:hover {
   color: white;
   background-color: rgba(0, 0, 0, 0.9);
+}
+
+footer {
+  text-align: center;
+  margin-top: 100px;
 }
