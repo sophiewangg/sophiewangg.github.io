@@ -37,12 +37,12 @@ body {
 #scroll {
   width: 200px;
   margin: auto;
-  padding: 20px 0;
+  padding: 10px 0;
 }
 
 #side-note {
   float: right;
-  margin: 5% 0;
+  margin: 0;
 }
 
 .intro {
@@ -51,7 +51,7 @@ body {
 }
 
 #projects {
-  margin-top: 70%;
+  margin-top: 65%;
 }
 
 .btn-outline-dark {
@@ -74,7 +74,6 @@ a:hover {
   margin: 0;
   padding: 0;
   z-index: -1;
-  overflow-x: hidden;
 }
 
 .card {
